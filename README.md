@@ -1,2 +1,5 @@
 # merge-conf
-Merge conflict
+
+adjiapld ad
+
+- What is merge conflict? What is it?
